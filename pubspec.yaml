@@ -59,8 +59,10 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
+    - assets/unity/Build/
     - assets/unity/
     - assets/unity/index.html
+    - assets/unity/Build/Builds.loader.js
     - assets/unity/Build/Builds.loader.js
     - assets/unity/TemplateData/style.css
     - assets/unity/Build/Builds.data
