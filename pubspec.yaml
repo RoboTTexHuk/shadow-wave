@@ -63,7 +63,7 @@ flutter:
     - assets/unity/
     - assets/unity/index.html
     - assets/unity/Build/Builds.loader.js
-    - assets/unity/Build/Builds.loader.js
+
     - assets/unity/TemplateData/style.css
     - assets/unity/Build/Builds.data
     - assets/unity/Build/Builds.framework.js
